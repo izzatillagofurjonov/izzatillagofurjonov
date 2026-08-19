@@ -14,7 +14,7 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=izzatillagofurjonov&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
 📫 Connect With Me
 <p align="center"> <a href="https://t.me/izzatill_a" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a> <a href="https://linkedin.com/in/izzatillagofurjonov" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:izzatillagofurjonov@example.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="100%" /> <i>⭐️ If you find my projects useful, consider giving them a star!</i> </p>
+<p align="center"><i>⭐️ If you find my projects useful, consider giving them a star!</i> </p>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
